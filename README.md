@@ -37,3 +37,4 @@ This Power BI dashboard provides insights into a survey conducted among data pro
 7. **Average Salary by Gender** 
 - Highlights salary differences based on gender.
 ## 📷 Dashboard Preview
+![Image](https://github.com/user-attachments/assets/de017161-5a06-44af-80c3-9720a59b6191)
