@@ -5,12 +5,12 @@ This Power BI dashboard provides insights into a survey conducted among data pro
 ## 🧹 Data Cleaning
 1. Removed Unnecessary Columns
 
-- Dropped irrelevant fields (e.g., ID fields, redundant information).
+  - Dropped irrelevant fields (e.g., ID fields, redundant information).
 
 2. Converted Salary Ranges to Numeric Values
 
-- The dataset had salary ranges (e.g., 100k - 150k).
-- Standardized salaries by calculating the average of the lower and upper bounds (e.g., 125k).
+  - The dataset had salary ranges (e.g., 100k - 150k).
+  - Standardized salaries by calculating the average of the lower and upper bounds (e.g., 125k).
 
 3. Grouped Less Common Categories
 
