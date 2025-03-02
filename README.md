@@ -38,3 +38,12 @@ This Power BI dashboard provides insights into a survey conducted among data pro
 - Highlights salary differences based on gender.
 ## 📷 Dashboard Preview
 ![Image](https://github.com/user-attachments/assets/755f5638-93e2-4607-bb92-002b1c7e903c)
+
+## 🏆 Acknowledgments  
+
+This project was inspired by the YouTube tutorial by **Alex The Analyst**.  
+Special thanks to him for providing valuable insights into building Power BI dashboards.  
+
+📺 Watch the tutorial here: [Full Power BI Guided Project](https://youtu.be/pixlHHe_lNQ?si=x-qZwbS6C3g6WmUM)  
+🔗 Check out his channel: [Alex The Analyst](https://www.youtube.com/c/AlexTheAnalyst)  
+
