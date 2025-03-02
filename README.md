@@ -4,7 +4,6 @@
 This Power BI dashboard provides insights into a survey conducted among data professionals. The dataset includes details such as job roles, salaries, demographics, work satisfaction, and career preferences.
 ## 🧹 Data Cleaning
 1. Removed Unnecessary Columns
-
   - Dropped irrelevant fields (e.g., ID fields, redundant information).
 
 2. Converted Salary Ranges to Numeric Values
